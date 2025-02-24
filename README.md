@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityar8652
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning express
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on project ideas
 - 📫 How to reach me adityar9764@gmail.com
 - 😄 Pronouns: He/Him
